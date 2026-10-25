@@ -1,0 +1,8 @@
+{
+  "name": "TableCraft - Restaurant Discovery & Table Reservations",
+  "description": "Curated dining destinations, real-time table reservations, and transparent $2 booking-fee protection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
